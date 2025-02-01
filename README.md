@@ -16,7 +16,7 @@
     <kbd>λ</kbd> <strong>XMU CS</strong> undergrad | <strong>CAS ICT-PAG</strong> intern<br>
     <kbd>⟁</kbd> Obsessed with <strong>PL/PA enlightenment</strong> & <strong>LLM applications</strong><br>
     <kbd>⌘</kbd> Booting <a href="https://github.com/GowayLee/Code2SQL"><strong>Code2SQL</strong></a> into reality 🛸<br>
-    <kbd>≡</kbd> Arch/Niri maximalist with <strong>formatter-obsessed</strong> dotfiles<br>
+    <kbd>≡</kbd> Arch/Niri maximalist with <strong>formatter-obsessed</strong> <a href="https://github.com/GowayLee/MyDotfiles">dotfiles</a><br>
     <kbd>φ</kbd> Rust-curious 🦀 | <strong>Midnight Coder</strong> 🌙 | <a href="https://space.bilibili.com/132677971?spm_id_from=333.1007.0.0"><i>Debussy Enthusiast</i></a> 🎼
   </samp>
 
