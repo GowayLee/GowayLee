@@ -13,11 +13,9 @@
 <p align="center">
   <samp>
     <i>$ cat /proc/about_me</i><br>
-    <kbd>λ</kbd> <strong>XMU CS</strong> undergrad | <strong>ICT CAS</strong> intern<br>
-    <kbd>⟁</kbd> Obsessed with <strong>PL/PA enlightenment</strong> & <strong>LLM applications</strong><br>
-    <kbd>⌘</kbd> Booting <a href="https://github.com/GowayLee/Code2SQL"><strong>Arborchive</strong></a> into reality 🛸<br>
-    <kbd>≡</kbd> Arch/Niri maximalist with <strong>formatter-obsessed</strong> <a href="https://github.com/GowayLee/MyDotfiles">dotfiles</a><br>
-    <kbd>φ</kbd> OCaml-curious 🐪 | <strong>Midnight Coder</strong> 🌙 | Love Math Rock 💊
+    <kbd>λ</kbd> <strong>XMU CS</strong> undergrad | Incoming <strong>ICT CAS</strong> PhD candidate<br>
+    <kbd>⟁</kbd> Obsessed with <strong>PL/SE enlightenment</strong> & <strong>LLM applications</strong><br>
+    <kbd>φ</kbd> OCaml-curious 🐪 | <strong>Midnight Coder</strong> 🌙 | Woking on program analysis 🛠️
   </samp>
 
   <br/>
