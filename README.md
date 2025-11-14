@@ -12,10 +12,9 @@
 
 <p align="center">
   <samp>
-    <i>$ cat /proc/about_me</i><br>
-    <kbd>λ</kbd> <strong>XMU CS</strong> undergrad | Incoming <strong>ICT CAS</strong> PhD candidate<br>
-    <kbd>⟁</kbd> Obsessed with <strong>PL/SE enlightenment</strong> & <strong>LLM applications</strong><br>
-    <kbd>φ</kbd> OCaml-curious 🐪 | <strong>Midnight Coder</strong> 🌙 | Woking on program analysis 🛠️
+    <strong>XMU CS</strong> undergrad | Incoming Master student @<strong>ICT CAS</strong><br>
+    Obsessed with <strong>PL/SE enlightenment</strong> & <strong>LLM applications</strong><br>
+    OCaml-curious 🐪 | <strong>Midnight Coder</strong> 🌙 | Woking on program analysis 🛠️
   </samp>
 
   <br/>
