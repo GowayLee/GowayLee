@@ -12,7 +12,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=gowaylee&theme=dark&show_icons=true">
-  <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=gowaylee&show_icons=true">
+  <img align="right" width="48%" src="https://github-readme-stats-ouuan.vercel.app/api?username=gowaylee&show_icons=true">
 </picture>
 
 - 🏫 **XMU CS** undergrad | Incoming MPhil student @**ICT CAS**<br>
