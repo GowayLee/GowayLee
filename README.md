@@ -15,7 +15,7 @@
   <img align="right" width="45%" src="https://github-readme-stats-ouuan.vercel.app/api?username=gowaylee&show_icons=true">
 </picture>
 
-- 🏫 **XMU CS** undergrad | Incoming MPhil student @ **[ICT, UCAS](https://www.ict.ac.cn/)**<br>
+- 🏫 **XMU CS** undergrad | Incoming MS student @ **[ICT, UCAS](https://www.ict.ac.cn/)**<br>
 - 🛠️ Working on **Static Analysis** and other **SE/PL** issues
 - 💡 Interested in **LLM x SE** ideas and implementations
 - ✏️ Java / Python / TypeScript / OCaml / C++
