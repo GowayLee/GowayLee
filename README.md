@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="2416" height="555" alt="image" src="https://github.com/user-attachments/assets/8ce8b1cf-e843-4802-902f-0b9049b2b1df" /><h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png">
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="40" width="0px" alt="">
@@ -19,7 +19,7 @@
 - 🛠️ Working on **Static Analysis** and other **SE/PL** issues
 - 💡 Interested in **LLM x SE** ideas and implementations
 - ✏️ Java / Python / TypeScript / OCaml / C++
-- 📦 My [AUR](https://aur.archlinux.org/packages?K=haoyuanli0506&SeB=m) / [PyPI](https://pypi.org/user/haoyuanli0506/) packages
+- 📦 My [AUR](https://aur.archlinux.org/packages?K=Hauryn_Lee&SeB=m) / [PyPI](https://pypi.org/user/haoyuanli0506/) packages
 - 📫 Feel free to contact me `lihaoyuan0506[AT]gmail[DOT]com`
 - 🎵 Also catch me on [Bilibili](https://space.bilibili.com/132677971?spm_id_from=333.1007.0.0) / [Zhihu](https://www.zhihu.com/people/jian-bing-tai-si-ji) / [Xiaohongshu](https://www.xiaohongshu.com/user/profile/641a568100000000120120b1)
 
