@@ -1,4 +1,4 @@
-<img width="2416" height="555" alt="image" src="https://github.com/user-attachments/assets/8ce8b1cf-e843-4802-902f-0b9049b2b1df" /><h1 align="center">
+<h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png">
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="40" width="0px" alt="">
