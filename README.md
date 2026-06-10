@@ -21,7 +21,7 @@
 - ✏️ TypeScript / Python / C++ / OCaml (still learning)
 - 📦 My [AUR](https://aur.archlinux.org/packages?K=Hauryn_Lee&SeB=m) / [npm](https://www.npmjs.com/~haurynlee) / [PyPI](https://pypi.org/user/haoyuanli0506/) packages
 - 📫 Feel free to contact me `lihaoyuan0506[AT]gmail[DOT]com`
-- 🎵 Also catch me on [Bilibili](https://space.bilibili.com/132677971?spm_id_from=333.1007.0.0) / [Zhihu](https://www.zhihu.com/people/jian-bing-tai-si-ji) / [Xiaohongshu](https://www.xiaohongshu.com/user/profile/641a568100000000120120b1)
+<!-- - 🎵 Also catch me on [Bilibili](https://space.bilibili.com/132677971?spm_id_from=333.1007.0.0) / [Zhihu](https://www.zhihu.com/people/jian-bing-tai-si-ji) / [Xiaohongshu](https://www.xiaohongshu.com/user/profile/641a568100000000120120b1) -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowaylee&theme=minimal&custom_title=Code%20Flow&area=true&hide_border=true" width="100%">
